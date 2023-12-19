@@ -13,7 +13,7 @@ body{
 /* Hero section */
 
 .hero__section{
-	background-image: url('D:\Html Programs\images\food logo.jpg');
+	background-image: url('./images/food\ logo.jpg');
 	height: 400px;
 	background-size: cover;
 	background-position: center;
