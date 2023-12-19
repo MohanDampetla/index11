@@ -267,11 +267,11 @@ body{
 } 
 
 .card1{
-	background-image: url('./Images/collection1.jpg');
+	background-image: url('collection1.jpg');
 }
 
 .card2{
-	background-image: url('./Images/collection2.jpg');
+	background-image: url();
 }
 
 .card3{
@@ -279,7 +279,7 @@ body{
 }
 
 .card4{
-	background-image: url('./Images/collection4.jpg');
+	background-image: url('collection2.jpg');
 }
 
 .overlay{
