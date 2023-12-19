@@ -271,15 +271,15 @@ body{
 }
 
 .card2{
-	background-image: url();
+	background-image: url('collection2.jpg');
 }
 
 .card3{
-	background-image: url('./Images/collection3.jpg');
+	background-image: url('collection3.jpg');
 }
 
 .card4{
-	background-image: url('collection2.jpg');
+	background-image: url('collection4.jpg');
 }
 
 .overlay{
